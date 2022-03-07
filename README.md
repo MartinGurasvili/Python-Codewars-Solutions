@@ -1,2 +1,2 @@
-# Python-CodeWars
-CodeWars Python Solutions
+# Python Codewars Solutions
+
