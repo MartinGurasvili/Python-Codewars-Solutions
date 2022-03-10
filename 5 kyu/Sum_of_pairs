@@ -1,0 +1,6 @@
+def sum_pairs(ints, s):
+    temp = set()
+    for i in ints:
+        if s - i in temp:
+            return [s - i, i]
+        temp.add(i)
